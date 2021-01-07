@@ -22,6 +22,7 @@
       Greatest Decrease in Profits: Sep-2013 ($-2196167)
 - In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
+
 ## Poll Data Analysis
 
 - Analyzed data to help a small, rural town modernize its vote counting process.
