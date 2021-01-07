@@ -4,6 +4,7 @@
 - created a Python script for analyzing the financial records of your company.
 - Used budget_data.csv data for the data analysus. The dataset is composed of two columns: Date and Profit/Losses.
 
+
 - Created a Python script that analyzes the records to calculate each of the following:
   - The total number of months included in the dataset
   - The net total amount of "Profit/Losses" over the entire period
